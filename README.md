@@ -6,7 +6,7 @@
 
 :diamond_shape_with_a_dot_inside: A curated collection of machine learning scripts and tools for advancing biological research and computational innovation.
 
-Welcome to BioMLScripts, a comprehensive GitHub repository dedicated to machine learning scripts specialized in biological data analysis and computational biology. This repository serves as a collaborative space for researchers and developers to share, refine, and apply cutting-edge ML algorithms tailored for bioinformatics challenges. Our goal is to foster an open-source community that enhances the integration of machine learning with biological research, driving innovation and accelerating scientific discoveries.
+Welcome to BioMLScripts, a dynamic GitHub repository dedicated to machine learning scripts for biological research. This repository serves as a collaborative platform for researchers and developers to share, enhance, and deploy sophisticated ML algorithms designed to tackle various biological challenges. Our goal is to foster an open-source community that propels the integration of machine learning with biological research, promoting innovation and accelerating breakthroughs in the field.
 
 🛰️ **Citation Request:** If you find the contents and tools in this repository valuable for your work, we kindly request that you cite it in your research or project. Your citation helps acknowledge the effort put into creating and maintaining these ML-driven resources.
 
