@@ -34,8 +34,7 @@ named synthia-7b-v2.0-16k.Q3_K_S.gguf and then upload it to your gdrive:
 ### Setup
 ```bash
 
-!wget https://github.com/PKhosravi-CityTech/BioMLScripts/raw/main/QueryMate/QueryMate.ipynb
-
+!wget https://github.com/PKhosravi-CityTech/BioMLScripts/blob/main/QueryMate/QueryMate.ipynb
 ```
 ### Running the Notebook
 After downloading the notebook, open it in Colab and run the cells sequentially to start using QueryMate.
