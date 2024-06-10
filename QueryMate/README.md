@@ -19,7 +19,7 @@ To get started with QueryMate, follow these steps:
 
   ```
 
-### Download the Model
+### Download the SynthIA-7B-v2.0-16k model
 
 You need to download the SynthIA-7B-v2.0-16k model file from Hugging Face. 
 Visit the following link and download the latest or the second latest version of the file 
@@ -31,10 +31,10 @@ named synthia-7b-v2.0-16k.Q3_K_S.gguf and then upload it to your gdrive:
 
   ```
 
-### Setup
+### Download the QueryMate model
 ```bash
 
-!wget https://github.com/PKhosravi-CityTech/BioMLScripts/blob/main/QueryMate/QueryMate.ipynb
+https://github.com/PKhosravi-CityTech/BioMLScripts/blob/main/QueryMate/QueryMate.ipynb
 ```
 ### Running the Notebook
 After downloading the notebook, open it in Colab and run the cells sequentially to start using QueryMate.
