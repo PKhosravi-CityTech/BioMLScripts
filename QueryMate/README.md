@@ -9,11 +9,13 @@ To get started with QueryMate, follow these steps:
 ### Prerequisites
 
 - Python 3.6 or later
-- Install the required libraries:
+- Make sure you are on GPU or TPU as this program takes 15 minutes on CPU, 5 minutes on GPU, and just a few seconds on TPU in Colab.
+- Install the required libraries in your Colab:
+
   ```bash
 
-  pip install langchain-community
-  pip install llama-cpp-python
+  !pip install langchain-community
+  !pip install llama-cpp-python
 
   ```
 
@@ -21,7 +23,7 @@ To get started with QueryMate, follow these steps:
 
 You need to download the SynthIA-7B-v2.0-16k model file from Hugging Face. 
 Visit the following link and download the latest or the second latest version of the file 
-named synthia-7b-v2.0-16k.Q3_K_S.gguf:
+named synthia-7b-v2.0-16k.Q3_K_S.gguf and then upload it to your gdrive:
 
   ```bash
 
@@ -30,19 +32,10 @@ named synthia-7b-v2.0-16k.Q3_K_S.gguf:
   ```
 
 ### Setup
-1. Clone this repository:
-
 ```bash
-# Install Git if not already installed
-!apt-get install -qq git
 
-# Clone the repository
-!git clone https://github.com/PKhosravi-CityTech/BioMLScripts.git
-
-# Navigate into the directory
-%cd BioMLScripts/QueryMate
+!wget https://github.com/PKhosravi-CityTech/BioMLScripts/raw/main/QueryMate/QueryMate.ipynb
 
 ```
-
-2. upload the model file in the appropriate notebook. Update the model_path in the code and follow the steps.
-
+### Running the Notebook
+After downloading the notebook, open it in Colab and run the cells sequentially to start using QueryMate.
