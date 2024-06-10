@@ -12,30 +12,37 @@ To get started with QueryMate, follow these steps:
 - Install the required libraries:
   ```bash
 
-  pip install langchain textwrap
+  pip install langchain-community
+  pip install llama-cpp-python
 
-Download the Model
+  ```
+
+### Download the Model
+
 You need to download the SynthIA-7B-v2.0-16k model file from Hugging Face. 
 Visit the following link and download the latest or the second latest version of the file 
 named synthia-7b-v2.0-16k.Q3_K_S.gguf:
 
-Download SynthIA-7B-v2.0-16k Model from https://huggingface.co/TheBloke/SynthIA-7B-v2.0-16k-GGUF
+  ```bash
 
-Setup
+  https://huggingface.co/TheBloke/SynthIA-7B-v2.0-16k-GGUF
+
+  ```
+
+### Setup
 1. Clone this repository:
 
-git clone [https://github.com/yourusername/querymate.git](https://github.com/PKhosravi-CityTech/BioMLScripts/new/main/QueryMate)
-cd querymate
+```bash
+# Install Git if not already installed
+!apt-get install -qq git
 
-2. Place the downloaded model file in the appropriate directory. Update the model_path in the code if necessary.
+# Clone the repository
+!git clone https://github.com/PKhosravi-CityTech/BioMLScripts.git
 
-Usage
-Run the script using Python: python querymate.py
-or run it in colab
+# Navigate into the directory
+%cd BioMLScripts/QueryMate
 
-Feel free to fork this repository, make improvements.
+```
 
-License
-This project is licensed under the MIT License.
-
+2. upload the model file in the appropriate notebook. Update the model_path in the code and follow the steps.
 
