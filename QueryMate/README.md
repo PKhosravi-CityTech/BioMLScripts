@@ -1,6 +1,10 @@
+<img src="https://github.com/PKhosravi-CityTech/BioMLScripts/raw/main/Images/QueryMate.png" alt="QueryMate" width="300" height="300" align="left" style="margin-bottom: 40px;">
+
 # QueryMate
 
 QueryMate is an AI-powered question-answering system built using the LlamaCpp model from the langchain library. This system is designed to provide precise answers to user questions and allows for adjustable response parameters based on user feedback.
+
+
 
 ## Getting Started
 
