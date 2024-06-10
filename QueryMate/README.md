@@ -13,7 +13,7 @@ To get started with QueryMate, follow these steps:
 ### Prerequisites
 
 - Python 3.6 or later
-- Make sure you are on GPU or TPU as this program takes 15 minutes on CPU, 5 minutes on GPU, and just a few seconds on TPU in Colab for each question.
+- Make sure you are on GPU or TPU as this program takes ten minutes on CPU, three minutes on GPU, and just a few seconds on TPU in Colab for each question.
 - Install the required libraries in your Colab:
 
   ```bash
