@@ -32,7 +32,9 @@ named synthia-7b-v2.0-16k.Q3_K_S.gguf and then upload it to your gdrive:
   ```bash
   https://huggingface.co/TheBloke/SynthIA-7B-v2.0-16k-GGUF
   ```
-![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) **Update**: QueryMate_V01 is the version with automated model downloading.
+```diff
++ Update: QueryMate_V01 is the version with automated model downloading.
+```
 
 ### Download the QueryMate or QueryMate_V01 model
 ```bash
