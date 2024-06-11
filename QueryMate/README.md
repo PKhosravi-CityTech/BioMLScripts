@@ -30,15 +30,14 @@ Visit the following link and download the latest or the second latest version of
 named synthia-7b-v2.0-16k.Q3_K_S.gguf and then upload it to your gdrive:
 
   ```bash
-
   https://huggingface.co/TheBloke/SynthIA-7B-v2.0-16k-GGUF
-
   ```
+# Update: QueryMate_V01 is the version with automated model downloading.
 
-### Download the QueryMate model
+### Download the QueryMate or QueryMate_V01 model
 ```bash
-
 https://github.com/PKhosravi-CityTech/BioMLScripts/blob/main/QueryMate/QueryMate.ipynb
+https://github.com/PKhosravi-CityTech/BioMLScripts/blob/main/QueryMate/QueryMate_V01.ipynb
 ```
 ### Running the Notebook
 After downloading the notebook, open it in Colab and run the cells sequentially to start using QueryMate.
