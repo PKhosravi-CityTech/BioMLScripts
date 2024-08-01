@@ -1,4 +1,4 @@
-<img src="https://github.com/PKhosravi-CityTech/BioMLScripts/raw/main/Images/QueryMate.png" alt="QueryMate" width="150" height="150" align="left" style="margin-bottom: 40px;">
+<img src="https://github.com/PKhosravi-CityTech/BioMLScripts/raw/main/Images/QueryMate.jpeg" alt="QueryMate" width="150" height="150" align="left" style="margin-bottom: 40px;">
 
 # QueryMate
 
