@@ -35,6 +35,9 @@ named synthia-7b-v2.0-16k.Q3_K_S.gguf and then upload it to your gdrive:
 ```diff
 + Update: QueryMate_V01 is the version with automated model downloading.
 ```
+```diff
++ Update: QueryMate_V02 improves performance with parallel model downloading and updates the model file for enhanced efficiency.
+```
 
 ### Download the QueryMate or QueryMate_V01 model
 ```bash
