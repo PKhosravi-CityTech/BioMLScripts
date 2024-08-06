@@ -8,7 +8,7 @@ QueryMate is an AI-powered question-answering system built using the LlamaCpp mo
 
 ## Getting Started
 
-To get started with QueryMate, follow these steps:
+To get started with QueryMate, follow these steps: Before following the steps, read the PDF file named BBK_QueryMate.pdf for full instructions.
 
 ### Prerequisites
 
