@@ -25,7 +25,7 @@ To get started with QueryMate, follow these steps: Before following the steps, r
 
 ### Download the SynthIA-7B-v2.0-16k model
 
-You need to download the SynthIA-7B-v2.0-16k model file from Hugging Face. 
+If you are not using QueryMate_V01 or V02 (which have automatic download), you need to manually download the SynthIA-7B-v2.0-16k model file from Hugging Face.
 Visit the following link and download the latest or the second latest version of the file 
 named synthia-7b-v2.0-16k.Q3_K_S.gguf and then upload it to your gdrive:
 
